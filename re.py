@@ -1,1 +1,3 @@
-'hello' hehehe.hello.world
+'hello' 
+x = 'world' 
+print(x)
