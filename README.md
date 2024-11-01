@@ -1,1 +1,13 @@
 # data-mastery
+
+This repository serves as my personal roadmap to data science mastery. Here, you'll find a curated collection of notes covering various essential topics to equip you with the knowledge and skills necessary for success in this exciting field.
+
+## Current Notes:
+- **Python**: This section contains your learning materials focused on mastering the Python programming language, the foundation for data science. (Further notes will be added soon!)
+
+## Future Additions:
+- **Maths**: Strong mathematical foundations are crucial for data science. This section will house your notes on relevant math concepts as you progress.
+- **Data Analysis**: Learn techniques for exploring, cleaning, and preparing data for further analysis.
+- **Machine Learning**: Dive into the world of algorithms that learn from data, allowing you to make predictions and uncover hidden patterns.
+- **Natural Language Processing *(NLP)***: Explore how to interact with and analyze textual data with advanced techniques.
+- **Deep Learning**: Delve into the power of neural networks to tackle complex problems with vast amounts of data.
