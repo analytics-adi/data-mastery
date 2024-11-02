@@ -11,6 +11,9 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 | Topic | Link |
 | :--- | :---: |
 | Basic of Python | 👉[LINK](python-notes/Basic_of_Python.pdf)👈 |
+| Basic of Python 2 | 👉[LINK](python-notes/Basic_of_Python_2.pdf)👈 |
+| Strings | 👉[LINK](python-notes/Strings.pdf)👈 |
+| List | 👉[LINK](python-notes/Lists.pdf)👈 |
 
 
 
