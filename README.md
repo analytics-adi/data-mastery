@@ -6,7 +6,7 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 - **Python**: This section contains your learning materials focused on mastering the Python programming language, the foundation for data science. (Further notes will be added soon!)
 
 ## Table of Content
-<h3>Python</h3>
+<h3>Python 🐍</h3>
 
 | Topic | Link |
 | :--- | :---: |
@@ -14,14 +14,9 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 | Basic of Python 2 | 👉[LINK](python-notes/Basic_of_Python_2.pdf)👈 |
 | Strings | 👉[LINK](python-notes/Strings.pdf)👈 |
 | List | 👉[LINK](python-notes/Lists.pdf)👈 |
-
-
-
-
-
-
-
-
+| Tuples | 👉[LINK](python-notes/Tuples.pdf)👈 |
+| Sets | 👉[LINK](python-notes/Sets.pdf)👈 |
+| Dictionary | 👉[LINK](python-notes/Dictionary.pdf)👈 |
 
 
 
