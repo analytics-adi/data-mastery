@@ -17,6 +17,8 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 | Tuples | 👉[LINK](python-notes/Tuples.pdf)👈 |
 | Sets | 👉[LINK](python-notes/Sets.pdf)👈 |
 | Dictionary | 👉[LINK](python-notes/Dictionary.pdf)👈 |
+| Functions | 👉[LINK](python-notes/Functions.pdf)👈 |
+| Recursion | 👉[LINK](python-notes/Recursion.pdf)👈 |
 
 
 
