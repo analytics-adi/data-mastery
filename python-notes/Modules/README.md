@@ -1,5 +1,5 @@
 # Built-in modules you must learn first:
-```
+```py
 import os          # File/directory operations, paths
 import sys         # System-specific parameters
 import datetime    # Date and time handling
