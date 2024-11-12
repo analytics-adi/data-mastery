@@ -8,28 +8,28 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 ## Table of Content
 <h3>Python 🐍</h3>
 
-| Topic | Link |
-| :--- | :---: |
-| Basic of Python | 👉[LINK](python-notes/Basic_of_Python.pdf)👈 |
-| Basic of Python 2 | 👉[LINK](python-notes/Basic_of_Python_2.pdf)👈 |
-| Strings | 👉[LINK](python-notes/Strings.pdf)👈 |
-| List | 👉[LINK](python-notes/Lists.pdf)👈 |
-| Tuples | 👉[LINK](python-notes/Tuples.pdf)👈 |
-| Sets | 👉[LINK](python-notes/Sets.pdf)👈 |
-| Dictionary | 👉[LINK](python-notes/Dictionary.pdf)👈 |
-| Functions | 👉[LINK](python-notes/Functions.pdf)👈 |
-| Recursion | 👉[LINK](python-notes/Recursion.pdf)👈 |
-| Lambda Function - Map / Reduce / Filter | 👉[LINK](python-notes/Lambda_Function_-_MAP_REDUCE_FILTER.pdf)👈 |
-| Comprehension - List / Dict | 👉[LINK](python-notes/Comprehension_-_List_Dict.pdf)👈 |
-| Iteration | 👉[LINK](python-notes/Iteration.pdf)👈 |
-| Generators | 👉[LINK](python-notes/Generators.pdf)👈 |
-| if \_\_name__ == "\_\_main__" / chain() / f-string / Enumerate| 👉[LINK](python-notes/if___name__equalto__main__-_chain()_f-string_Enumerate.pdf)👈 |
-| Deep Copy vs Shallow Copy | 👉[LINK](python-notes/Deep_copy_Vs_Shallow_Copy.pdf)👈 |
-| Eval & Zip Function | 👉[LINK](python-notes/Eval_Function__ZIP_Function.pdf)👈 |
+| Sno. | Topic | Link |
+| :---: | :---: | :---: |
+| 1 | Basic of Python | 👉[LINK](python-notes/Basic_of_Python.pdf)👈 |
+| 2 | Basic of Python 2 | 👉[LINK](python-notes/Basic_of_Python_2.pdf)👈 |
+| 3 | Strings | 👉[LINK](python-notes/Strings.pdf)👈 |
+| 4 | List | 👉[LINK](python-notes/Lists.pdf)👈 |
+| 5 | Tuples | 👉[LINK](python-notes/Tuples.pdf)👈 |
+| 6 | Sets | 👉[LINK](python-notes/Sets.pdf)👈 |
+| 7 | Dictionary | 👉[LINK](python-notes/Dictionary.pdf)👈 |
+| 8 | Functions | 👉[LINK](python-notes/Functions.pdf)👈 |
+| 9 | Recursion | 👉[LINK](python-notes/Recursion.pdf)👈 |
+| 10 | Lambda Function - Map / Reduce / Filter | 👉[LINK](python-notes/Lambda_Function_-_MAP_REDUCE_FILTER.pdf)👈 |
+| 11 | Comprehension - List / Dict | 👉[LINK](python-notes/Comprehension_-_List_Dict.pdf)👈 |
+| 12 | Iteration | 👉[LINK](python-notes/Iteration.pdf)👈 |
+| 13 | Generators | 👉[LINK](python-notes/Generators.pdf)👈 |
+| 14 | if \_\_name__ == "\_\_main__" / chain() / f-string / Enumerate| 👉[LINK](python-notes/if___name__equalto__main__-_chain()_f-string_Enumerate.pdf)👈 |
+| 15 | Deep Copy vs Shallow Copy | 👉[LINK](python-notes/Deep_copy_Vs_Shallow_Copy.pdf)👈 |
+| 16 | Eval & Zip Function | 👉[LINK](python-notes/Eval_Function__ZIP_Function.pdf)👈 |
 ||
 |MODULES|
-| OS | 👉[LINK](python-notes/Modules/OS_Module.pdf)👈 |
-| Logging | 👉[LINK](python-notes/Modules/Logging.pdf)👈 |
+| 1 | OS | 👉[LINK](python-notes/Modules/OS_Module.pdf)👈 |
+| 2 | Logging | 👉[LINK](python-notes/Modules/Logging.pdf)👈 |
 
 
 
