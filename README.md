@@ -26,8 +26,10 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 | if \_\_name__ == "\_\_main__" / chain() / f-string / Enumerate| 👉[LINK](python-notes/if___name__equalto__main__-_chain()_f-string_Enumerate.pdf)👈 |
 | Deep Copy vs Shallow Copy | 👉[LINK](python-notes/Deep_copy_Vs_Shallow_Copy.pdf)👈 |
 | Eval & Zip Function | 👉[LINK](python-notes/Eval_Function__ZIP_Function.pdf)👈 |
-
-
+||
+|MODULES|
+| OS | 👉[LINK](python-notes/Modules/OS_Module.pdf)👈 |
+| Logging | 👉[LINK](python-notes/Modules/Logging.pdf)👈 |
 
 
 
