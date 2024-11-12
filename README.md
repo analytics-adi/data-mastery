@@ -24,6 +24,12 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 | Iteration | 👉[LINK](python-notes/Iteration.pdf)👈 |
 | Generators | 👉[LINK](python-notes/Generators.pdf)👈 |
 | if \_\_name__ == "\_\_main__" / chain() / f-string / Enumerate| 👉[LINK](python-notes/if___name__equalto__main__-_chain()_f-string_Enumerate.pdf)👈 |
+| Deep Copy vs Shallow Copy | 👉[LINK](python-notes/Deep_copy_Vs_Shallow_Copy.pdf)👈 |
+| Eval & Zip Function | 👉[LINK](python-notes/Eval_Function__ZIP_Function.pdf)👈 |
+
+
+
+
 
 
 
