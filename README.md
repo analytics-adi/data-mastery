@@ -19,10 +19,11 @@ This repository serves as my personal roadmap to data science mastery. Here, you
 | Dictionary | 👉[LINK](python-notes/Dictionary.pdf)👈 |
 | Functions | 👉[LINK](python-notes/Functions.pdf)👈 |
 | Recursion | 👉[LINK](python-notes/Recursion.pdf)👈 |
-
-
-
-
+| Lambda Function - Map / Reduce / Filter | 👉[LINK](python-notes/Lambda_Function_-_MAP_REDUCE_FILTER.pdf)👈 |
+| Comprehension - List / Dict | 👉[LINK](python-notes/Comprehension_-_List_Dict.pdf)👈 |
+| Iteration | 👉[LINK](python-notes/Iteration.pdf)👈 |
+| Generators | 👉[LINK](python-notes/Generators.pdf)👈 |
+| if \_\_name__ == "\_\_main__" / chain() / f-string / Enumerate| 👉[LINK](python-notes/if___name__equalto__main__-_chain()_f-string_Enumerate.pdf)👈 |
 
 
 
